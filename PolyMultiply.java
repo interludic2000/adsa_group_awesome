@@ -2,7 +2,7 @@
  * ADSA Assignment 2, question 3
  * 
  * a1077337 Xiang Guo
- * a1646630 Patrick Man
+ * a1646630 Patrick Mann
  * 
  */
 
